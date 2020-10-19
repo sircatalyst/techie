@@ -5,8 +5,6 @@
 
 ## Built With
 
-- [Html]()
-- [CSS]()
 - [Node.js](https://nodejs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Nest.js](https://docs.nestjs.com/)
