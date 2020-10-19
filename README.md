@@ -20,10 +20,10 @@ In your command line, type:
 
 ```bash
 # Clone this repository
-$ git clone []
+$ git clone [https://github.com/sircatalyst/techie.git]
 
 # Enter the project directory
-$ cd []
+$ cd [techie]
 
 # Install dependencies
 $ npm install
